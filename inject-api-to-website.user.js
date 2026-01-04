@@ -7,6 +7,7 @@
 // @match              http://*/*
 // @match              https://*/*
 // @connect            *
+// @run-at             document-start
 // @grant              GM_addElement
 // @grant              GM_addStyle
 // @grant              GM_download
